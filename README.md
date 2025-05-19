@@ -21,7 +21,7 @@ A. //
 B. <!--  
 C. #  
 D. --  
-**Answer: B**
+**Answer: C**
 
 **4. Which keyword is used to define a function in Python?**  
 A. function  
@@ -42,7 +42,7 @@ A. List
 B. Dictionary  
 C. Set  
 D. Tuple  
-**Answer: B**
+**Answer: D**
 
 **7. What does len('Python') return?**  
 A. 5  
@@ -56,7 +56,7 @@ A. scanf()
 B. cin  
 C. input()  
 D. gets()  
-**Answer: B**
+**Answer: C**
 
 **9. Which loop is best used when the number of iterations is unknown?**  
 A. for  
@@ -70,14 +70,14 @@ A. set = []
 B. set = {}  
 C. set = set()  
 D. set = dict()  
-**Answer: B**
+**Answer: C**
 
 **11. Which of these functions returns a list of all keys in a dictionary?**  
 A. dict.items()  
 B. dict.values()  
 C. dict.get()  
 D. dict.keys()  
-**Answer: B**
+**Answer: D**
 
 **12. Which method adds an element to a list?**  
 A. insert()  
@@ -105,7 +105,7 @@ A. Named arguments
 B. Arbitrary keyword arguments  
 C. Variable positional arguments  
 D. No arguments  
-**Answer: B**
+**Answer: C**
 
 **16. What is the output of: print([1,2,3] is [1,2,3])?**  
 A. True  
@@ -119,7 +119,7 @@ A. def func(*args):
 B. def func(**kwargs):  
 C. def func(args*):  
 D. def func(a, *args, **kwargs):  
-**Answer: B**
+**Answer: C**
 
 **18. Which function is used to manually trigger garbage collection in Python?**  
 A. gc.enable()  
@@ -133,11 +133,11 @@ A. H
 B. e  
 C. o  
 D. Error  
-**Answer: B**
+**Answer: C**
 
 **20. Which of the following statements about Python memory management is true?**  
 A. Python uses manual memory management  
 B. Python has no garbage collector  
 C. Variables are automatically garbage collected  
 D. Python uses malloc/free  
-**Answer: B**
+**Answer: C**
