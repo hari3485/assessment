@@ -51,7 +51,7 @@
 
    D. zip()
 
-    ANSWER (A)
+    ANSWER (C)
 
 
 5. **Which is NOT a Python built-in data type?**
