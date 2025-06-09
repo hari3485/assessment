@@ -12,6 +12,8 @@
 
    D. Recursive Evaluation
 
+Answer : A
+
 
 2. **Which function finds all matches of a pattern in a string?** 
 
@@ -22,6 +24,8 @@
    C. findall()
 
    D. compile()
+
+Answer : C
 
 
 3. **What symbol matches any single character except a newline?** 
@@ -34,6 +38,8 @@
 
    D. ^
 
+Answer : B
+
 
 4. **Which character is used to match the start of a string?** 
 
@@ -44,6 +50,9 @@
    C. ?
 
    D. .
+
+Answer : A
+
 
 
 5. **Which regex symbol matches zero or more occurrences?** 
@@ -56,6 +65,9 @@
 
    D. .
 
+Answer : B
+
+
 
 6. **What will re.findall(r'\d+', 'abc123xyz45') return?** 
 
@@ -66,6 +78,9 @@
    C. ['1', '2', '3', '4', '5']
 
    D. []
+
+Answer : B
+
 
 
 7. **Which function returns a match object if pattern is found at the start?** 
@@ -78,6 +93,9 @@
 
    D. fullmatch()
 
+Answer : B
+
+
 
 8. **What is the output of re.search(r'abc', '123abc456')?** 
 
@@ -88,6 +106,9 @@
    C. ['abc']
 
    D. Error
+
+Answer : B
+
 
 
 9. **What does re.sub(r'\d', '*', 'a1b2c3') return?** 
@@ -100,6 +121,8 @@
 
    D. '*a*b*c*'
 
+Answer : B
+
 
 10. **What does re.split(r'\s+', 'a b   c') return?** 
 
@@ -110,6 +133,9 @@
      C. ['a', '', '', 'b', '', '', '', 'c']
 
     D. Error
+
+Answer : A
+
 
 
 11. **Which pattern matches a 10-digit phone number like 9876543210?**
@@ -122,6 +148,8 @@
 
      D. r'\D{10}'
 
+Answer : A
+
 
 12. **Which pattern matches a word boundary?** 
 
@@ -132,6 +160,8 @@
      C. r'\b'
 
      D. r'\w'
+
+Answer : C
 
 
 13. **What is the output of re.findall(r'[^0-9]', 'a1b2c3')?** 
@@ -144,6 +174,9 @@
 
      D. Error
 
+Answer : B
+
+
 
 14. **Which of these patterns matches an empty string?** 
 
@@ -154,7 +187,9 @@
      C. r'\w'
     
     D. r'.*'
-    
+
+Answer : A
+
 
 15. **Which of these is a valid use of raw string in regex?** 
 
@@ -165,6 +200,8 @@
      C. re.compile('\\n')
     
      D. All of the above
+
+Answer : B
     
 
 16. **What is the output of re.findall(r'\b\w{4}\b', 'This is a test of code regex')?**
@@ -176,6 +213,8 @@
     C. ['This', 'test', 'code', 'regex']
     
      D. []
+
+Answer : A
     
 
 17. **What does re.match(r'.*', '') return?** 
@@ -187,6 +226,8 @@
     C. ''
    
      D. Error
+
+Answer : B
    
 
 18. **What is the output of re.sub(r'(\d+)', r'\1\1', 'abc123def')?** 
@@ -198,6 +239,9 @@
      C. 'abc12def'
    
      D. 'abc1def'
+
+Answer : A
+
    
 
 19. **Which regex pattern matches 'cat' or 'cot' but not 'cut'?** 
@@ -209,6 +253,8 @@
     C. r'c[^u]t'
    
     D. r'c[a|o]t'
+
+Answer : A
    
 
 20. **What is the difference between re.search() and re.match()?** 
@@ -220,6 +266,8 @@
      C. match() looks anywhere, search() only at start
    
     D. match() returns a list
+
+Answer : B
    
 
 ---
