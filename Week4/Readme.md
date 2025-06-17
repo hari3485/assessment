@@ -9,14 +9,14 @@
 
    B. zip()
 
-   **C. enumerate()**
+   `**C. enumerate()**`
 
    D. list()
 
 
 2. **What is the output of: `f"Value is {5}"`?**
 
-   **A. Value is 5**
+   `**A. Value is 5**`
 
    B. fValue is 5
 
@@ -28,7 +28,7 @@
 
    A. [x in range(5)]
 
-   **B. [x for x in range(5)]**
+   `**B. [x for x in range(5)]**`
 
    C. for x in range(5):
 
@@ -41,7 +41,8 @@
 
    B. <!-- -->
 
-   **C. #**
+   `**C. #**`
+   
    D. /**/
 
 
@@ -51,13 +52,13 @@
 
    B. type=int
 
-   **C. -> int**
+   `**C. -> int**`
 
    D. as int
 
 6. **What will be the output of: `list(zip([1, 2], ['a', 'b']))`?** 
 
-   **A. [(1, 'a'), (2, 'b')]**
+   `**A. [(1, 'a'), (2, 'b')]**`
 
    B. [(1, 2), ('a', 'b')]
 
@@ -71,7 +72,7 @@
 
    B. [1, 4, 9]
 
-   **C. [0, 1, 4]**
+   `**C. [0, 1, 4]**`
 
    D. [0, 2, 4]
 
@@ -81,13 +82,13 @@
 
    B. Flake8
 
-   **C. PyLint**
+   `**C. PyLint**`
 
    D. Black
 
 9. **Which syntax shows a lambda function to square a number?** 
 
-   **A. lambda x: x**2**
+   `**A. lambda x: x**2**`
 
    B. x => x*x
 
@@ -101,13 +102,13 @@
 
     B. Runtime type enforcement
 
-    **C. Optional static typing for readability/tools**
+    `**C. Optional static typing for readability/tools**`
 
     D. None
 
 11. **What is the output of: `list(enumerate(['a', 'b']))`?**
 
-    **A. [(0, 'a'), (1, 'b')]**
+    `**A. [(0, 'a'), (1, 'b')]**`
 
     B. [('a', 0), ('b', 1)]
 
@@ -121,7 +122,7 @@
 
     B. They replace all loops
 
-    **C. They create a new list using an expression and iteration**
+    `**C. They create a new list using an expression and iteration**`
 
     D. They are deprecated
 
@@ -129,7 +130,7 @@
 
     A. [x for x in range(5)]
 
-    **B. [x for x in 5]**
+    `**B. [x for x in 5]**`
 
     C. [x*x for x in range(5)]
 
@@ -141,7 +142,7 @@
 
     B. PyTest
 
-    **C. PyLint**
+    `**C. PyLint**`
 
     D. MyPy
 
@@ -152,7 +153,7 @@
 
     B. four equals 4
 
-    **C. 4 equals four**
+    `**C. 4 equals four**`
 
     D. Error
 
@@ -162,7 +163,7 @@
 
     B. {0, 1, 4}
 
-    **C. {0: 0, 1: 1, 2: 4}**
+    `**C. {0: 0, 1: 1, 2: 4}**`
 
     D. (0, 1, 4)
 
@@ -170,7 +171,7 @@
 
     A. <class 'str'>
 
-    **B. <class 'list'>**
+    `**B. <class 'list'>**`
 
     C. <class 'tuple'>
 
@@ -180,7 +181,7 @@
 
     A. for i in reversed(list):
 
-    **B. list[::-1]**
+    `**B. list[::-1]**`
 
     C. list.reverse()
 
@@ -190,7 +191,7 @@
 
     A. Skips it
 
-    **B. Adds warning**
+    `**B. Adds warning**`
 
     C. Crashes
 
@@ -200,7 +201,7 @@
 
     A. def add(x, y): float
 
-    **B. def add(x, y) -> float:**
+    `**B. def add(x, y) -> float:**`
    
     C. def add: float
 
